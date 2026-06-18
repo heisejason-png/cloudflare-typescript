@@ -394,3 +394,4 @@ This SDK is actively maintained, however, many issues are tracked outside of Git
 ## Contributing
 
 See [the contributing documentation](./CONTRIBUTING.md).
+Created by Jason Scott Heise
