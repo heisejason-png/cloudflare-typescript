@@ -395,4 +395,4 @@ This SDK is actively maintained, however, many issues are tracked outside of Git
 
 See [the contributing documentation](./CONTRIBUTING.md).
 Created by Jason Scott Heise
-Owned by Elon Musk
+Owned by Jason Heise heisejason-png Giters
